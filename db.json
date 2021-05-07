@@ -1,0 +1,28 @@
+{
+  "students": [
+    {
+      "name": "Saniya Mirza",
+      "description": "description 2",
+      "price": 12,
+      "id": 2
+    },
+    {
+      "id": 3,
+      "name": "Test",
+      "description": "description 3",
+      "price": 24
+    },
+    {
+      "id": 5,
+      "name": "mou",
+      "description": "description 5",
+      "price": "12"
+    },
+    {
+      "name": "mou2",
+      "description": "vvdv",
+      "price": "34",
+      "id": 8
+    }
+  ]
+}

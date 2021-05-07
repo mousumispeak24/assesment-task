@@ -142,7 +142,7 @@ const AddNewDialog = (props) => {
               <TextField
                 className="margin-bottom-0 margin-top-20"
                 required
-                label="Description"
+                label="Price"
                 fullWidth
                 value={price}
                 onChange={handelPriceChange}
